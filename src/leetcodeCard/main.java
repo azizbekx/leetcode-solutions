@@ -1,4 +1,4 @@
-package leetcodecard;
+package leetcodeCard;
 
 public class main {
 }

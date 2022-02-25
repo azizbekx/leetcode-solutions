@@ -1,4 +1,4 @@
-package leetcodecard.arraysandstring;
+package leetcodeCard.arraysAndString;
 
 import java.util.ArrayList;
 import java.util.List;

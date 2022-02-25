@@ -1,4 +1,4 @@
-package leetcodecard.arraysandstring;
+package leetcodeCard.arraysAndString;
 
 public class DiagonalTraverse {
     public int[] findDiagonalOrder(int[][] mat) {

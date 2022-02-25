@@ -99,6 +99,10 @@
 <br/>
 
 ##Leetcode card
+#Arrays and String
+| #    | Title           | Solution                                                   |  Time           | Space           | Difficulty    | Tag          | Note| 
+|------|---------------- |------------------------------------------------------------| --------------- | --------------- | ------------- |--------------|-----|
+| 118  | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [Java](./src/leetcodeCard/arraysAndString/PascalsTriangle) | _O(n * l)_ | _O(1)_      | Easy         ||     |     |
 
 ## Top 75 questions 
 | # | Title                                                                                | Solution   | Runtime |
@@ -115,6 +119,7 @@
 ## All Leetcode questions
 
 ## Array
+
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 |1002 | [Find Common Characters](https://leetcode.com/problems/find-common-characters/) | [C++](.) [Python](./) | _O(n * l)_ | _O(1)_      | Easy         ||     |     |
