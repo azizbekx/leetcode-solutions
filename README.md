@@ -100,9 +100,9 @@
 
 ##Leetcode card
 #Arrays and String
-| #    | Title           | Solution                                                   |  Time           | Space           | Difficulty    | Tag          | Note| 
-|------|---------------- |------------------------------------------------------------| --------------- | --------------- | ------------- |--------------|-----|
-| 118  | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [Java](./src/leetcodeCard/arraysAndString/PascalsTriangle) | _O(n * l)_ | _O(1)_      | Easy         ||     |     |
+| #    | Title           | Solution                                    |  Time           | Space           | Difficulty    | Tag          | Note| 
+|------|---------------- |---------------------------------------------| --------------- | --------------- | ------------- |--------------|-----|
+| 118  | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [Java](./src/leetcodeCard/arraysAndString/PascalsTriangle.java) | _O(n * l)_ | _O(1)_      | Easy         ||     |     |
 
 ## Top 75 questions 
 | # | Title                                                                                | Solution   | Runtime |
