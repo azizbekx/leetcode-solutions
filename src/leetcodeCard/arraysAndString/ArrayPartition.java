@@ -2,7 +2,7 @@ package leetcodeCard.arraysAndString;
 
 import java.util.Arrays;
 
-public class arrayPartition {
+public class ArrayPartition {
     // time - O(nlogn)
     // space - O(1)
 
