@@ -124,11 +124,13 @@
 <br/>
 
 ##Leetcode card
-#Arrays and String
+
+##Arrays and String
+
 | #   | Title                                                                                                    | Solution                                                        | Time       | Space  | Difficulty | Tag | Note | 
 |-----|----------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|------------|--------|------------|-----|------|
 |     | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)                                     | [Java](./src/leetcodeCard/arraysAndString/PascalsTriangle.java) | _O(n * l)_ | _O(1)_ | Easy       ||     |     |
-|     | [Add Binary](https://leetcode.com/problems/add-binary/)                                                  | [Java](./src/leetcodeCard/arraysAndString/PascalsTriangle.java) | _O(n * l)_ | _O(1)_ | Easy       ||     |     |
+|     | [Add Binary](https://leetcode.com/problems/add-binary/)                                                  | [Java](./src/leetcodeCard/arraysAndString/AddBinary.java)       | _O(n * l)_ | _O(1)_ | Easy       ||     |     |
 |     | [Implement strStr()](https://leetcode.com/problems/implement-strstr/)                                    | [Java](./src/leetcodeCard/arraysAndString/PascalsTriangle.java) | _O(n * l)_ | _O(1)_ | Easy       ||     |     |
 |     | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)                            | [Java](./src/leetcodeCard/arraysAndString/PascalsTriangle.java) | _O(n * l)_ | _O(1)_ | Easy       ||     |     |
 |     | [Reverse String](https://leetcode.com/problems/reverse-string/)                                          | [Java](./src/leetcodeCard/arraysAndString/PascalsTriangle.java) | _O(n * l)_ | _O(1)_ | Easy       ||     |     |
