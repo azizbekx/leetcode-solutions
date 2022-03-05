@@ -123,10 +123,9 @@
 </div>
 <br/>
 
-##Leetcode card
+## Leetcode Cards
 
-##Arrays and String
-
+## Arrays and Strings 
 | #   | Title                                                                                                    | Solution                                                                    | Time   | Space  | Difficulty | Tag | Note | 
 |-----|----------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|--------|--------|------------|-----|------|
 |     | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)                                     | [Java](./src/leetcodeCard/arraysAndString/PascalsTriangle.java)             | _O(n)_ | _O(1)_ | Medium     ||     |     |
