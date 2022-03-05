@@ -127,21 +127,21 @@
 
 ##Arrays and String
 
-| #   | Title                                                                                                    | Solution                                                        | Time       | Space  | Difficulty | Tag | Note | 
-|-----|----------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|------------|--------|------------|-----|------|
-|     | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)                                     | [Java](./src/leetcodeCard/arraysAndString/PascalsTriangle.java) | _O(n * l)_ | _O(1)_ | Easy       ||     |     |
-|     | [Add Binary](https://leetcode.com/problems/add-binary/)                                                  | [Java](./src/leetcodeCard/arraysAndString/AddBinary.java)       | _O(n * l)_ | _O(1)_ | Easy       ||     |     |
-|     | [Implement strStr()](https://leetcode.com/problems/implement-strstr/)                                    | [Java](./src/leetcodeCard/arraysAndString/PascalsTriangle.java) | _O(n * l)_ | _O(1)_ | Easy       ||     |     |
-|     | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)                            | [Java](./src/leetcodeCard/arraysAndString/PascalsTriangle.java) | _O(n * l)_ | _O(1)_ | Easy       ||     |     |
-|     | [Reverse String](https://leetcode.com/problems/reverse-string/)                                          | [Java](./src/leetcodeCard/arraysAndString/PascalsTriangle.java) | _O(n * l)_ | _O(1)_ | Easy       ||     |     |
-|     | [Array Partition I](https://leetcode.com/problems/array-partition-i/)                                    | [Java](./src/leetcodeCard/arraysAndString/PascalsTriangle.java) | _O(n * l)_ | _O(1)_ | Easy       ||     |     |
-|     | [Two Sum II ](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted//)                          | [Java](.//leetcode)                                             | _O(n * l)_ | _O(1)_ | Easy       ||     |     |
-|     | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)                    | [Java](./src/leetcodeCard/arraysAndString/PascalsTriangle.java) | _O(n * l)_ | _O(1)_ | Easy       ||     |     |
-|     | [Rotate array](https://leetcode.com/problems/rotate-array/submissions/)                                  | [Java](./src/leetcodeCard/arraysAndString/PascalsTriangle.java) | _O(n * l)_ | _O(1)_ | Easy       ||     |     |
-|     | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)                               | [Java](./src/leetcodeCard/arraysAndString/PascalsTriangle.java) | _O(n * l)_ | _O(1)_ | Easy       ||     |     |
-|     | [Reverse String ](https://leetcode.com/problems/reverse-string/)                                         | [Java](./src/leetcodeCard/arraysAndString/PascalsTriangle.java) | _O(n * l)_ | _O(1)_ | Easy       ||     |     |
-|     | [Reverse String II](https://leetcode.com/problems/reverse-string-ii/)                                    | [Java](./src/leetcodeCard/arraysAndString/PascalsTriangle.java) | _O(n * l)_ | _O(1)_ | Easy       ||     |     |
-|     | [Remove Duplicate from Sorted array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Java](./src/leetcodeCard/arraysAndString/PascalsTriangle.java) | _O(n * l)_ | _O(1)_ | Easy       ||     |     |
+| #   | Title                                                                                                    | Solution                                                                    | Time   | Space  | Difficulty | Tag | Note | 
+|-----|----------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|--------|--------|------------|-----|------|
+|     | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)                                     | [Java](./src/leetcodeCard/arraysAndString/PascalsTriangle.java)             | _O(n)_ | _O(1)_ | Medium     ||     |     |
+|     | [Add Binary](https://leetcode.com/problems/add-binary/)                                                  | [Java](./src/leetcodeCard/arraysAndString/AddBinary.java)                   | _O(n)_ | _O(1)_ | Easy       ||     |     |
+|     | [Implement strStr()](https://leetcode.com/problems/implement-strstr/)                                    | [Java](./src/leetcodeCard/arraysAndString/ImplementStr.java)                | _O(n)_ | _O(1)_ | Easy       ||     |     |
+|     | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)                            | [Java](./src/leetcodeCard/arraysAndString/LongestCommonPrefix.java)         | _O(n)_ | _O(1)_ | Easy       ||     |     |
+|     | [Reverse String](https://leetcode.com/problems/reverse-string/)                                          | [Java](./src/leetcodeCard/arraysAndString/ReverseString.java)               | _O(n)_ | _O(1)_ | Easy       ||     |     |
+|     | [Array Partition I](https://leetcode.com/problems/array-partition-i/)                                    | [Java](./src/leetcodeCard/arraysAndString/ArrayPartition.java)              | _O(n)_ | _O(1)_ | Easy       ||     |     |
+|     | [Two Sum II ](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted//)                          | [Java](./src/leetcodeCard/arraysAndString/TwoSumII.java)                    | _O(n)_ | _O(1)_ | Easy       ||     |     |
+|     | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)                    | [Java](./)                                                                  | _O(n)_ | _O(1)_ | Easy       ||     |     |
+|     | [Rotate array](https://leetcode.com/problems/rotate-array/submissions/)                                  | [Java](./src/leetcodeCard/arraysAndString/RotateArray.java)                 | _O(n)_ | _O(1)_ | Easy       ||     |     |
+|     | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)                               | [Java](./src/leetcodeCard/arraysAndString/PascalsTriangleII.java)           | _O(n)_ | _O(1)_ | Easy       ||     |     |
+|     | [Reverse String ](https://leetcode.com/problems/reverse-string/)                                         | [Java](./src/leetcodeCard/arraysAndString/Reverse_Words_In_String.java)     | _O(n)_ | _O(1)_ | Easy       ||     |     |
+|     | [Reverse String II](https://leetcode.com/problems/reverse-string-ii/)                                    | [Java](./src/leetcodeCard/arraysAndString/Reverse_Words_In_String_III.java) | _O(n)_ | _O(1)_ | Easy       ||     |     |
+|     | [Remove Duplicate from Sorted array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Java](./)                                                                  | _O(n)_ | _O(1)_ | Easy       ||     |     |
 
 ## Top 75 questions 
 | # | Title                                                                                | Solution   | Runtime |
